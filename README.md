@@ -7,7 +7,7 @@
 [![License](https://poser.pugx.org/typisttech/travis-nginx-wordpress/license)](https://packagist.org/packages/typisttech/travis-nginx-wordpress)
 [![Hire Typist Tech](https://img.shields.io/badge/Hire-Typist%20Tech-ff69b4.svg)](https://typist.tech/contact/)
 
-A basic template for Nginx and WordPress running on Travis CI's container based infrastructure.
+A basic template for Nginx and WordPress running on Travis CI's container based infrastructure. Prueba de cambios en integracion por Herbert Mora
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
